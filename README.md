@@ -1,5 +1,5 @@
 # PornHub Unofficial API
-
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
 Unofficial API for pornhub.com in Python
 
 ### *Pull requests are welcome!!!*
